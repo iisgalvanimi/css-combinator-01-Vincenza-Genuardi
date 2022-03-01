@@ -1,7 +1,7 @@
  
 
 #header_img {
-    width: 200px;
-    margin: auto;
-    display: block;
+    width: 500px;
+    margin: right 1.5;
+    display: -moz-inline-box;
 }
